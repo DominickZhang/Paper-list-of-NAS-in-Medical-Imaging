@@ -3,7 +3,7 @@
 
 > https://www.automl.org/automl/literature-on-neural-architecture-search/
 
-The papers accepted at conferences and journals are in bold. Hopefully it can provide some guidance towards high-quality papers.
+The papers accepted at conferences and journals are in **bold**. Hopefully it can provide some guidance towards high-quality papers.
 
 *Maintained by <span style="color:red">Jinnian Zhang</span>;*  *Last update: <span style="color:red">December 18th 2020</span>*
 
