@@ -5,7 +5,7 @@
 
 The papers accepted at conferences and journals are in **bold**. Hopefully it can provide some guidance towards high-quality papers.
 
-*Maintained by <span style="color:red">Jinnian Zhang</span>;*  *Last update: <span style="color:red">December 18th 2020</span>*
+*Maintained by <span style="color:red">Jinnian Zhang</span>;*  *Last update: <span style="color:red">December 24th 2020</span>*
 
 key words: medical; U-Net; UNet; lesion; retina; MICCAI; health; MRI; 
 
